@@ -1,0 +1,2 @@
+include ':app', ':FlowAdapterRetrofit'
+rootProject.name='Flow'
